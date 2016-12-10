@@ -1,2 +1,3 @@
 ## Lesson 1
-lorem ipsum
+# logo 
+lorem ipsum 
